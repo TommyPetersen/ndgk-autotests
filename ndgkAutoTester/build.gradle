@@ -11,7 +11,7 @@ buildscript {
 }
 
 version "0.1"
-group "ndgktester"
+group "ndgkautotester"
 
 apply plugin:"eclipse"
 apply plugin:"idea"

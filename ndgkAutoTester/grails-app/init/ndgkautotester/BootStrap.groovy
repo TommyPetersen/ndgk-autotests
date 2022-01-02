@@ -1,4 +1,4 @@
-package ndgktester
+package ndgkautotester
 
 class BootStrap {
 

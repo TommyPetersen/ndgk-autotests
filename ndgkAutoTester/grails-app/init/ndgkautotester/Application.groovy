@@ -1,4 +1,4 @@
-package ndgktester
+package ndgkautotester
 
 import grails.boot.GrailsApp
 import grails.boot.config.GrailsAutoConfiguration
