@@ -9,6 +9,7 @@ class UrlMappings {
             }
         }
 
+        "/hurlumhej"(view:"/hurlumhej")
         "/"(view:"/index")
         "500"(view:'/error')
         "404"(view:'/notFound')

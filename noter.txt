@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+					----------------------
+					Ndgk-autotests - Noter
+					----------------------
+
+
+
+
+
+
+
+
+Controllers
+-----------
+D. 9/1-2022: Skal til "https://guides.grails.org/grails_url_mappings/guide/index.html".
+
+
+
+
+
+
