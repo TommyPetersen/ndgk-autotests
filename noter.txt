@@ -14,6 +14,9 @@
 
 
 
+Uris
+----
+http://dice.ndgk.dk
 
 
 
